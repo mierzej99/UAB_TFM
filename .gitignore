@@ -1,0 +1,5 @@
+scripts/*.ipynb
+scripts/*.txt
+scripts/*.md
+
+data/
